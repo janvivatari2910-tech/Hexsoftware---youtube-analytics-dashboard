@@ -1,8 +1,7 @@
-import streamlit as st
-import pandas as pd
-import plotly.express as px
-from googleapiclient.discovery import build
-
+streamlit
+pandas
+plotly
+google-api-python-client
 # =====================================
 # API KEY
 # =====================================
